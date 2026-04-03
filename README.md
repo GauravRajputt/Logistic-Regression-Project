@@ -6,20 +6,6 @@ This project applies **Logistic Regression** to predict whether an internet user
 
 ---
 
-## 📌 Table of Contents
-
-- [📂 Project Overview](#-project-overview)
-- [📊 Dataset Information](#-dataset-information)
-- [📁 Project Structure](#-project-structure)
-- [📈 Exploratory Data Analysis (EDA)](#-exploratory-data-analysis-eda)
-- [⚙️ Data Preprocessing](#-data-preprocessing)
-- [🤖 Model Development](#-model-development)
-- [📝 Model Evaluation](#-model-evaluation)
-- [📌 Key Visualizations](#-key-visualizations)
-- [🔚 Conclusion](#-conclusion)
-
----
-
 ## 📂 Project Overview
 
 🔹 **Goal:** Predict whether a user will click on an advertisement based on their behavior and demographics.
@@ -28,8 +14,6 @@ This project applies **Logistic Regression** to predict whether an internet user
 🔹 **Libraries Used:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
 Understanding user behavior in digital marketing is crucial for optimizing advertisements. This project builds a logistic regression model to classify users based on whether they clicked on an ad, helping businesses tailor their marketing efforts effectively.
-
-🔗 **GitHub Repository:** [Project Link](https://github.com/27abhishek27/Logistic-Regression-Project)
 
 ---
 
